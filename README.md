@@ -21,8 +21,6 @@
 > `short <your_link>`
 <br>
 
-<br>
-
 ### Installation & Step's in Kali Linux or else
  
 > `apt update && apt upgrade`
